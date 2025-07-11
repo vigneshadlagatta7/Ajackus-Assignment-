@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+.button {
+  background-color: rgba(8, 35, 239, 0.932);
+  color: #ffffff;
+  padding:10px ;
+  border-radius: 8px;
+}
+.button1 {
+  background-color: green;
+  color: #ffffff;
+  margin-right: 5px;
+  border-radius: 6px;
+  padding: 8px;
+}
+.button2 {
+  background-color: red;
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 8px;
+}
+.input {
+  border-radius: 8px;
+  padding: 10px;
+  margin: 5px;
+}
